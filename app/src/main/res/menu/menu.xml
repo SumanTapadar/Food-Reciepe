@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+  <item
+      android:id="@+id/settings"
+      android:title="settings"
+      android:icon="@drawable/setting"
+
+app:showAsAction="never">
+
+  </item>
+  <item
+      android:id="@+id/help"
+      android:title="Help"
+      app:showAsAction="never">
+
+  </item>
+  <item
+      android:id="@+id/log"
+      android:title="Log_Out"
+      app:showAsAction="never">
+
+  </item>
+  <item
+    android:id="@+id/wishlist"
+    android:icon="@drawable/liked"
+    app:showAsAction="ifRoom">
+
+  </item>
+
+
+</menu>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "332424692768",
+    "project_id": "foodie-86590",
+    "storage_bucket": "foodie-86590.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332424692768:android:366edc995a93babf156845",
+        "android_client_info": {
+          "package_name": "com.example.nowweather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_u_L1swAjpiLz0ceXU7_oG8MDhzmARoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
